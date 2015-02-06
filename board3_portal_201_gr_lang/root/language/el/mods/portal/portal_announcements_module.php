@@ -47,7 +47,7 @@ $lang = array_merge($lang, array(
 	'JUMP_NEWEST'				=> 'Μετάβαση στην νεώτερη δημοσίευση',
 	'JUMP_FIRST'				=> 'Μετάβαση στην πρώτη δημοσίευση',
 	'JUMP_TO_POST'				=> 'Μετάβαση στην δημοσίευση',
-
+	
 	// ACP
 	'ACP_PORTAL_ANNOUNCE_SETTINGS'				=> 'Ρυθμίσεις γενικών ανακοινώσεων',
 	'ACP_PORTAL_ANNOUNCE_SETTINGS_EXP'		=> 'Εδώ ρυθμίζετε το μπλοκ των γενικών ανακοινώσεων.',

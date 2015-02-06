@@ -36,7 +36,7 @@ $lang = array_merge($lang, array(
 	'PORTAL_RECENT_TOPIC'		=> 'Πρόσφατα θέματα',
 	'PORTAL_RECENT_ANN'			=> 'Πρόσφατες ανακοινώσεις',
 	'PORTAL_RECENT_HOT_TOPIC'	=> 'Πρόσφατα δημοφιλή θέματα',
-
+	
 	// ACP
 	'ACP_PORTAL_RECENT_SETTINGS'			=> 'Ρυθμίσεις προσφάτων θεμάτων',
 	'ACP_PORTAL_RECENT_SETTINGS_EXP'	=> 'Εδώ ρυθμίζετε το μπλοκ για τα πρόσφατα θέματα.',

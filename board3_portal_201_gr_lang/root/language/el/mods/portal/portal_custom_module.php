@@ -33,7 +33,7 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 $lang = array_merge($lang, array(
 	'PORTAL_CUSTOM'		=> 'Προσαρμοσμένο μπλοκ',
-
+	
 	// ACP
 	'ACP_PORTAL_CUSTOM_SETTINGS'			=> 'Ρυθμίσεις προσαρμοσμένου μπλοκ',
 	'ACP_PORTAL_CUSTOM_SETTINGS_EXP'		=> 'Εδώ μπορείτε να επεξεργαστείτε το προσαρμοσμένο σας μπλοκ',

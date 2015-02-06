@@ -37,7 +37,7 @@ $lang = array_merge($lang, array(
 	'NO_OPTIONS'			=> 'Αυτό το δημοψήφισμα δεν έχει διαθέσιμες επιλογές.',
 	'NO_POLL'				=> 'Δεν υπάρχουν διαθέσιμα δημοψηφίσματα',
 	'RETURN_PORTAL'			=> '%sΕπιστροφή στο portal%s',
-
+	
 	// ACP
 	'ACP_PORTAL_POLLS_SETTINGS'			=> 'Ρυθμίσεις δημοψηφισμάτων',
 	'ACP_PORTAL_POLLS_SETTINGS_EXP'	=> 'Εδώ ρυθμίζετε το μπλοκ για τα δημοψηφίσματα.',

@@ -35,7 +35,7 @@ $lang = array_merge($lang, array(
 	'DOWNLOADS'				=> 'Μεταφορτώσεις',
 	'NO_ATTACHMENTS'		=> 'Δεν υπάρχουν συνημμένα',
 	'PORTAL_ATTACHMENTS'	=> 'Συνημμένα',
-
+	
 	// ACP
 	'ACP_PORTAL_ATTACHMENTS_NUMBER_SETTINGS'			=> 'Ρυθμίσεις συνημμένων',
 	'ACP_PORTAL_ATTACHMENTS_NUMBER_SETTINGS_EXP'	=> 'Εδώ ρυθμίζετε το μπλοκ συνημμένων.',

@@ -55,11 +55,10 @@ $lang = array_merge($lang, array(
 	'EUR'						=> 'Euros (EUR)',
 	'MXN'						=> 'Mexican Pesos (MXN)',
 	'ILS'						=> 'Israeli New Shekels (ILS)',
-
+	
 	// ACP
 	'ACP_PORTAL_PAYPAL_SETTINGS'			=> 'Ρυθμίσεις Paypal',
 	'ACP_PORTAL_PAYPAL_SETTINGS_EXP'		=> 'Εδώ ρυθμίζετε το μπλοκ Paypal.',
 	'PORTAL_PAY_ACC'						=> 'Λογαριασμός Paypal που θα χρησιμοποιείται',
 	'PORTAL_PAY_ACC_EXP'					=> 'Εισάγετε την διεύθυνση που δηλώσατε στο Paypal π.χ. xxx@xxx.com',
-	'PORTAL_PAY_CUSTOM'				=> 'Προσάρτηση ονόματος μέλους στη δωρεά Paypal',
 ));

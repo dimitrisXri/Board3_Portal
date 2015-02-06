@@ -1,7 +1,7 @@
 <?php
 /**
 *
-* @package Board3 Portal v2 - Topposters
+* @package Board3 Portal v2 - Friends
 * @copyright (c) Board3 Group ( www.board3.de )
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
@@ -32,10 +32,16 @@ if (empty($lang) || !is_array($lang))
 // equally where a string contains only two placeholders which are used to wrap text
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 $lang = array_merge($lang, array(
-	'TOPPOSTERS'					=> 'Κορυφαίοι συγγραφείς',
-	'TOPPOSTERS_CONFIG'				=> 'Ρυθμίσεις κορυφαίων συγγραφέων',
-
+	'FRIENDS'				=> 'Φίλοι',
+	'FRIENDS_OFFLINE'		=> 'Εκτός σύνδεσης',
+	'FRIENDS_ONLINE'		=> 'Σε σύνδεση',
+	'NO_FRIENDS'			=> 'Δεν καθορίστηκαν φίλοι προς το παρόν',
+	'NO_FRIENDS_OFFLINE'	=> 'Δεν υπάρχουν φίλοι εκτός σύνδεσης',
+	'NO_FRIENDS_ONLINE'		=> 'Δεν υπάρχουν φίλοι σε σύνδεση',
+	
 	// ACP
-	'NUM_TOPPOSTERS'				=> 'Αριθμός των κορυφαίων συγγραφέων',
-	'NUM_TOPPOSTERS_EXP'			=> 'Εισάγετε πόσα μέλη θα εμφανίζονται στο μπλοκ κορυφαίων συγγραφέων.',
+	'ACP_PORTAL_FRIENDS_SETTINGS'			=> 'Ρυθμίσεις μπλοκ φίλων',
+	'ACP_PORTAL_FRIENDS_SETTINGS_EXP'	=> 'Εδώ ρυθμίζετε το μπλοκ φίλων.',
+	'PORTAL_MAX_ONLINE_FRIENDS'				=> 'Όριο των εμφανιζόμενων φίλων',
+	'PORTAL_MAX_ONLINE_FRIENDS_EXP'		=> 'Ο μέγιστος αριθμός φίλων σε σύνδεση που θα εμφανίζονται.',
 ));

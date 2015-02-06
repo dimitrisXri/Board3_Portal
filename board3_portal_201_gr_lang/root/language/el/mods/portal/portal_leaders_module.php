@@ -36,7 +36,7 @@ $lang = array_merge($lang, array(
 	'NO_MODERATORS_P'		=> 'Κανένας συντονιστής',
 	'NO_GROUPS_P'			=> 'Καμία ομάδα',
 	'ACP_PORTAL_LEADERS'	=> 'Η ομάδα',
-
+	
 	// ACP
 	'ACP_PORTAL_LEADERS'		=> 'Ρυθμίσεις ομάδας',
 	'ACP_PORTAL_LEADERS_EXP'	=> 'Εδώ ρυθμίζετε το μπλοκ ομάδας',

@@ -36,7 +36,7 @@ $lang = array_merge($lang, array(
 	// Portal Modules
 	'ACP_PORTAL_MODULES'			=> 'Μονάδες portal',
 	'ACP_PORTAL_MODULES_EXP'		=> 'Εδώ μπορείτε να διαχειριστείτε τις μονάδες σας portal. Εάν απενεργοποιήσετε όλες τις μονάδες, παρακαλώ να απενεργοποιήσετε το portal επίσης.',
-
+	
 	'MODULE_POS_TOP'				=> 'Πάνω',
 	'MODULE_POS_LEFT'				=> 'Στήλη αριστερά',
 	'MODULE_POS_RIGHT'				=> 'Στήλη δεξιά',
@@ -56,8 +56,7 @@ $lang = array_merge($lang, array(
 	'DELETE_MODULE_CONFIRM'			=> 'Είστε σίγουροι ότι θέλετε να διαγράψετε την μονάδα "%1$s";',
 	'MODULE_RESET_SUCCESS'			=> 'Οι ρυθμίσεις της μονάδας επαναφέρθηκαν με επιτυχία.',
 	'MODULE_RESET_CONFIRM'			=> 'Είστε σίγουροι ότι θέλετε να επαναφέρετε τις ρυθμίσεις της μονάδας "%1$s";',
-	'MODULE_NOT_EXISTS'				=> 'Η επιλεγμένη μονάδα δεν υπάρχει.',
-
+	
 	'MODULE_OPTIONS'			=> 'Επιλογές μονάδας',
 	'MODULE_NAME'				=> 'Όνομα μονάδας',
 	'MODULE_NAME_EXP'			=> 'Εισάγετε το όνομα της μονάδας το οποίο θα πρέπει να εμφανίζεται στην διαμόρφωση μονάδων.',
@@ -97,7 +96,7 @@ $lang = array_merge($lang, array(
 	'PORTAL_LEFT_COLUMN_WIDTH_EXP'			=> 'Αλλάξτε το πλάτος της αριστερής στήλης σε εικονοστοιχεία. Προτεινόμενη τιμή είναι 180',
 	'PORTAL_RIGHT_COLUMN_WIDTH'				=> 'Πλάτος της δεξιάς στήλης',
 	'PORTAL_RIGHT_COLUMN_WIDTH_EXP'			=> 'Αλλάξτε το πλάτος της δεξιάς στήλης σε εικονοστοιχεία. Προτεινόμενη τιμή είναι 180',
-
+	
 	'LINK_ADDED'							=> 'Ο σύνδεσμος προστέθηκε με επιτυχία',
 	'LINK_UPDATED'							=> 'Ο σύνδεσμος ενημερώθηκε με επιτυχία',
 	'LOG_PORTAL_LINK_ADDED'					=> '<strong>Οι ρυθμίσεις portal άλλαξαν</strong><br />&raquo; Προστέθηκε σύνδεσμος: %s ',
@@ -124,14 +123,14 @@ $lang = array_merge($lang, array(
 	'PORTAL_MODULE_STATUS'			=> 'Κατάσταση',
 	'PORTAL_MODULE_SUCCESS'			=> 'Αντιγράφτηκε με επιτυχία.',
 	'PORTAL_MODULE_ERROR'			=> 'Σφάλμα. Το αρχείο υπάρχει ήδη ή δεν μπορεί να αντιγραφεί.',
-
+	
 	// Install
 	'PORTAL_BASIC_INSTALL'			=> 'Προσθήκη βασικού συνόλου μονάδων',
 	'PORTAL_BASIC_UNINSTALL'		=> 'Αφαίρεση μονάδων από τη βάση δεδομένων',
-
+	
 	// Logs
 	'LOG_PORTAL_CONFIG'			=> '<strong>Οι ρυθμίσεις portal άλλαξαν</strong><br />&raquo; %s',
-
+	
 	/**
 	* A copy of Handyman` s MOD version check, to view it on the portal overview
 	*/
@@ -144,7 +143,7 @@ $lang = array_merge($lang, array(
 	'RELEASE_ANNOUNCEMENT'	=> 'Ανακοίνωση θέμα',
 	'UP_TO_DATE'			=> 'Το %s είναι ενημερωμένο',
 	'VERSION_CHECK'			=> 'Έλεγχος έκδοσης MOD',
-
+	
 	// Adding the permissions
 	'acl_a_manage_portal'		=> array('lang' => 'Μπορεί να αλλάξει ρυθμίσεις portal', 'cat' => 'misc'),
 	'acl_u_view_portal'			=> array('lang' => 'Μπορεί να δει το portal', 'cat' => 'misc'),

@@ -1,7 +1,7 @@
 <?php
 /**
 *
-* @package Board3 Portal v2 - Birthday List
+* @package Board3 Portal v2 - Welcome
 * @copyright (c) Board3 Group ( www.board3.de )
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
@@ -32,13 +32,12 @@ if (empty($lang) || !is_array($lang))
 // equally where a string contains only two placeholders which are used to wrap text
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 $lang = array_merge($lang, array(
-	'BIRTHDAYS_AHEAD'              => 'Στις επόμενες %s ημέρες',
-	'NO_BIRTHDAYS_AHEAD'        => 'Κανένα μέλος δεν έχει γενέθλια μέσα σε αυτή την περίοδο.',
-
+	'PORTAL_WELCOME'		=> 'Μήνυμα καλωσορίσματος',
+	
 	// ACP
-	'ACP_PORTAL_BIRTHDAYS_SETTINGS'			=> 'Ρυθμίσεις για μπλοκ γενεθλίων',
-	'ACP_PORTAL_BIRTHDAYS_SETTINGS_EXP'	=> 'Εδώ ρυθμίζετε το μπλοκ γενεθλίων.',
-	'PORTAL_BIRTHDAYS'						=> 'Γενέθλια',
-	'PORTAL_BIRTHDAYS_AHEAD'				=> 'Γενέθλια στις προσεχείς ημέρες',
-	'PORTAL_BIRTHDAYS_AHEAD_EXP'		=> 'Σε πόσες προσεχείς ημέρες θα αναζητούνται μελλοντικά γενέθλια.<br />"0" απενεργοποιεί αυτή τη λίστα.',
+	'ACP_PORTAL_WELCOME_SETTINGS'			=> 'Ρυθμίσεις μηνύματος καλωσορίσματος',
+	'ACP_PORTAL_WELCOME_MESSAGE_SHORT'		=> 'Το μήνυμα που εισάγατε δεν είναι αρκετά μεγάλο.',
+	'ACP_PORTAL_WELCOME_PREVIEW'			=> 'Προεπισκόπιση μηνύματος καλωσορίσματος',
+	'ACP_PORTAL_WELCOME_MESSAGE'			=> 'Μήνυμα καλωσορίσματος',
+	'ACP_PORTAL_WELCOME_MESSAGE_EXP'		=> 'Μπορείτε να αλλάξτε το μήνυμα καλωσορίσματος στο πλαίσιο κειμένου. Τα BBCode, οι εικόνες και οι σύνδεσμοι επιτρέπονται.',
 ));

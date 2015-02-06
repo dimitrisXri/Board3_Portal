@@ -1,7 +1,7 @@
 <?php
 /**
 *
-* @package Board3 Portal v2 - Clock
+* @package Board3 Portal v2 - Latest Members
 * @copyright (c) Board3 Group ( www.board3.de )
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
@@ -32,11 +32,11 @@ if (empty($lang) || !is_array($lang))
 // equally where a string contains only two placeholders which are used to wrap text
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 $lang = array_merge($lang, array(
-	'CLOCK'		=> 'Ρολόι',
-
+	'LATEST_MEMBERS'	=> 'Νεώτερα μέλη',
+	
 	// ACP
-	'ACP_PORTAL_CLOCK_SETTINGS'		=> 'Ρυθμίσεις ρολογιού',
-	'ACP_PORTAL_CLOCK_SETTINGS_EXP'	=> 'Εδώ ρυθμίζετε το ρολόι σας',
-	'ACP_PORTAL_CLOCK_SRC'			=> 'Ρολόι',
-	'ACP_PORTAL_CLOCK_SRC_EXP'		=> 'Εισάγετε το όνομα αρχείου του ρολογιού σας. Το ρολόι πρέπει να βρίσκεται σε: styles/*yourstyle*/theme/images/portal/.',
+	'ACP_PORTAL_MEMBERS_SETTINGS'			=> 'Ρυθμίσεις νεώτερων μελών',
+	'ACP_PORTAL_MEMBERS_SETTINGS_EXP'	=> 'Εδώ ρυθμίζετε το μπλοκ τελευταίων μελών.',
+	'PORTAL_MAX_LAST_MEMBER'				=> 'Μέγιστος αριθμός των νεώτερων μελών που εμφανίζονται',
+	'PORTAL_MAX_LAST_MEMBER_EXP'		=> '0 σημαίνει απεριόριστο',
 ));

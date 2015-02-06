@@ -85,7 +85,7 @@ $lang = array_merge($lang, array(
 			'12'=> 'Δεκέμβριος',
 		),
 	),
-
+	
 	// ACP
 	'ACP_PORTAL_CALENDAR'					=> 'Ρυθμίσεις ημερολογίου',
 	'ACP_PORTAL_CALENDAR_EXP'				=> 'Εδώ ρυθμίζετε το μπλοκ ημερολογίου.',
@@ -127,7 +127,8 @@ $lang = array_merge($lang, array(
 	'ACP_PORTAL_CALENDAR_PERMISSION'		=> 'Δικαιώματα γεγονότος',
 	'ACP_PORTAL_CALENDAR_PERMISSION_EXP'	=> 'Επιλέξτε τις ομάδες οι οποίες θα είναι εξουσιοδοτημένες να βλέπουν το γεγονός. Εάν θέλετε όλα τα μέλη να είναι σε θέση να βλέπουν το γεγονός, μην επιλέξετε τίποτε.<br />Επιλογή / Από-επιλογή πολλαπλών ομάδων με πατημένο το <samp>CTRL</samp> και πατώντας.',
 	'PORTAL_EVENTS_URL_NEW_WINDOW'			=> 'Άνοιγμα εξωτερικών συνδέσμων γεγονότων σε νέο παράθυρο',
-
+	
+	
 	// Logs
 	'LOG_PORTAL_EVENT_UPDATED'				=> '<strong>Ενημερώθηκε γεγονός</strong><br />&raquo; %s',
 	'LOG_PORTAL_EVENT_ADDED'				=> '<strong>Προστέθηκε γεγονός</strong><br />&raquo; %s',

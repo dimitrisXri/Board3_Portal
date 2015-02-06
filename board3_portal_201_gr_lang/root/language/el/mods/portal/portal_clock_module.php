@@ -1,7 +1,7 @@
 <?php
 /**
 *
-* @package Board3 Portal v2 - Welcome
+* @package Board3 Portal v2 - Clock
 * @copyright (c) Board3 Group ( www.board3.de )
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
@@ -32,12 +32,11 @@ if (empty($lang) || !is_array($lang))
 // equally where a string contains only two placeholders which are used to wrap text
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 $lang = array_merge($lang, array(
-	'PORTAL_WELCOME'		=> 'Μήνυμα καλωσορίσματος',
-
+	'CLOCK'		=> 'Ρολόι',
+	
 	// ACP
-	'ACP_PORTAL_WELCOME_SETTINGS'			=> 'Ρυθμίσεις μηνύματος καλωσορίσματος',
-	'ACP_PORTAL_WELCOME_MESSAGE_SHORT'		=> 'Το μήνυμα που εισάγατε δεν είναι αρκετά μεγάλο.',
-	'ACP_PORTAL_WELCOME_PREVIEW'			=> 'Προεπισκόπιση μηνύματος καλωσορίσματος',
-	'ACP_PORTAL_WELCOME_MESSAGE'			=> 'Μήνυμα καλωσορίσματος',
-	'ACP_PORTAL_WELCOME_MESSAGE_EXP'		=> 'Μπορείτε να αλλάξτε το μήνυμα καλωσορίσματος στο πλαίσιο κειμένου. Τα BBCode, οι εικόνες και οι σύνδεσμοι επιτρέπονται.',
+	'ACP_PORTAL_CLOCK_SETTINGS'		=> 'Ρυθμίσεις ρολογιού',
+	'ACP_PORTAL_CLOCK_SETTINGS_EXP'	=> 'Εδώ ρυθμίζετε το ρολόι σας',
+	'ACP_PORTAL_CLOCK_SRC'			=> 'Ρολόι',
+	'ACP_PORTAL_CLOCK_SRC_EXP'		=> 'Εισάγετε το όνομα αρχείου του ρολογιού σας. Το ρολόι πρέπει να βρίσκεται σε: styles/*yourstyle*/theme/images/portal/.',
 ));

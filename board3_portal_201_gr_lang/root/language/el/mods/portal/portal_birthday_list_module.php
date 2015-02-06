@@ -1,7 +1,7 @@
 <?php
 /**
 *
-* @package Board3 Portal v2 - Friends
+* @package Board3 Portal v2 - Birthday List
 * @copyright (c) Board3 Group ( www.board3.de )
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
@@ -32,16 +32,13 @@ if (empty($lang) || !is_array($lang))
 // equally where a string contains only two placeholders which are used to wrap text
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 $lang = array_merge($lang, array(
-	'FRIENDS'				=> 'Φίλοι',
-	'FRIENDS_OFFLINE'		=> 'Εκτός σύνδεσης',
-	'FRIENDS_ONLINE'		=> 'Σε σύνδεση',
-	'NO_FRIENDS'			=> 'Δεν καθορίστηκαν φίλοι προς το παρόν',
-	'NO_FRIENDS_OFFLINE'	=> 'Δεν υπάρχουν φίλοι εκτός σύνδεσης',
-	'NO_FRIENDS_ONLINE'		=> 'Δεν υπάρχουν φίλοι σε σύνδεση',
-
+	'BIRTHDAYS_AHEAD'              => 'Στις επόμενες %s ημέρες',
+	'NO_BIRTHDAYS_AHEAD'        => 'Κανένα μέλος δεν έχει γενέθλια μέσα σε αυτή την περίοδο.',
+	
 	// ACP
-	'ACP_PORTAL_FRIENDS_SETTINGS'			=> 'Ρυθμίσεις μπλοκ φίλων',
-	'ACP_PORTAL_FRIENDS_SETTINGS_EXP'	=> 'Εδώ ρυθμίζετε το μπλοκ φίλων.',
-	'PORTAL_MAX_ONLINE_FRIENDS'				=> 'Όριο των εμφανιζόμενων φίλων',
-	'PORTAL_MAX_ONLINE_FRIENDS_EXP'		=> 'Ο μέγιστος αριθμός φίλων σε σύνδεση που θα εμφανίζονται.',
+	'ACP_PORTAL_BIRTHDAYS_SETTINGS'			=> 'Ρυθμίσεις για μπλοκ γενεθλίων',
+	'ACP_PORTAL_BIRTHDAYS_SETTINGS_EXP'	=> 'Εδώ ρυθμίζετε το μπλοκ γενεθλίων.',
+	'PORTAL_BIRTHDAYS'						=> 'Γενέθλια',
+	'PORTAL_BIRTHDAYS_AHEAD'				=> 'Γενέθλια στις προσεχείς ημέρες',
+	'PORTAL_BIRTHDAYS_AHEAD_EXP'		=> 'Σε πόσες προσεχείς ημέρες θα αναζητούνται μελλοντικά γενέθλια.<br />"0" απενεργοποιεί αυτή τη λίστα.',
 ));
