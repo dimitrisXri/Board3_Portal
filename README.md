@@ -5,5 +5,6 @@ Greek translation for board3 portal
 https://github.com/dimitrisXri/Board3_Portal/tree/board3_portal_210_rc1_gr_lang
 
 # Μετάφραση
-* dimitris (Δημήτηρης Χριστόπουλος)
+* dimitris (Δημήτρης Χριστόπουλος)
+* http://phpbbgr.com/team/
 
