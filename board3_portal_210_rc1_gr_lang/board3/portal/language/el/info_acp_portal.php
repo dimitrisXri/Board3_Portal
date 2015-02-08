@@ -42,9 +42,9 @@ $lang = array_merge($lang, array(
 	'LOG_PORTAL_LINK_ADDED'				=> '<strong>Οι ρυθμίσεις portal άλλαξαν</strong><br />&raquo; Προστέθηκε σύνδεσμος: %s ',
 	'LOG_PORTAL_LINK_UPDATED'			=> '<strong>Οι ρυθμίσεις portal άλλαξαν</strong><br />&raquo; Ενημερώθηκε σύνδεσμος: %s ',
 	'LOG_PORTAL_LINK_REMOVED'			=> '<strong>Οι ρυθμίσεις portal άλλαξαν</strong><br />&raquo; Αφαιρέθηκε σύνδεσμος: %s ',
-	'LOG_PORTAL_EVENT_ADDED'			=> '<strong>Οι ρυθμίσεις portal άλλαξαν</strong><br />&raquo; Προστέθηκε γεγονός: %s ',
-	'LOG_PORTAL_EVENT_UPDATED'			=> '<strong>Οι ρυθμίσεις portal άλλαξαν</strong><br />&raquo; Ενημερώθηκε γεγονός: %s ',
-	'LOG_PORTAL_EVENT_REMOVED'			=> '<strong>Οι ρυθμίσεις portal άλλαξαν</strong><br />&raquo; Αφαιρέθηκε γεγονός: %s ',
+	'LOG_PORTAL_EVENT_ADDED'			=> '<strong>Οι ρυθμίσεις portal άλλαξαν</strong><br />&raquo; Προστέθηκε εκδήλωση: %s ',
+	'LOG_PORTAL_EVENT_UPDATED'			=> '<strong>Οι ρυθμίσεις portal άλλαξαν</strong><br />&raquo; Ενημερώθηκε εκδήλωση: %s ',
+	'LOG_PORTAL_EVENT_REMOVED'			=> '<strong>Οι ρυθμίσεις portal άλλαξαν</strong><br />&raquo; Αφαιρέθηκε εκδήλωση: %s ',
 	'LOG_PORTAL_CONFIG'					=> '<strong>Οι ρυθμίσεις portal άλλαξαν</strong><br />&raquo; %s',
 
 	// Adding the permissions

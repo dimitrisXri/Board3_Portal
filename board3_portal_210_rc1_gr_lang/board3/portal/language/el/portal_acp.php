@@ -127,7 +127,7 @@ $lang = array_merge($lang, array(
 	'LATEST_VERSION'		=> 'Νεώτερη έκδοση',
 	'NO_INFO'				=> 'Δεν ήταν δυνατή η επικοινωνία με τον διακομιστή έκδοσης',
 	'NOT_UP_TO_DATE'		=> 'Το %s δεν είναι ενημερωμένο',
-	'RELEASE_ANNOUNCEMENT'	=> 'Ανακοίνωση θέμα',
+	'RELEASE_ANNOUNCEMENT'	=> 'Ανακοίνωσης θέμα',
 	'UP_TO_DATE'			=> 'Το %s είναι ενημερωμένο',
 	'VERSION_CHECK'			=> 'Έλεγχος έκδοσης επέκτασης',
 ));
