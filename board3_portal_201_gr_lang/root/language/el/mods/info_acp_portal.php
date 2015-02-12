@@ -5,6 +5,9 @@
 * @copyright (c) Board3 Group ( www.board3.de )
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
+* Ελληνική μετάφραση από την ομάδα του phpbbgr.com (dimitris):
+* (http://phpbbgr.com/team/)
+*
 */
 
 /**
@@ -102,9 +105,9 @@ $lang = array_merge($lang, array(
 	'LOG_PORTAL_LINK_ADDED'					=> '<strong>Οι ρυθμίσεις portal άλλαξαν</strong><br />&raquo; Προστέθηκε σύνδεσμος: %s ',
 	'LOG_PORTAL_LINK_UPDATED'				=> '<strong>Οι ρυθμίσεις portal άλλαξαν</strong><br />&raquo; Ενημερώθηκε σύνδεσμος: %s ',
 	'LOG_PORTAL_LINK_REMOVED'				=> '<strong>Οι ρυθμίσεις portal άλλαξαν</strong><br />&raquo; Αφαιρέθηκε σύνδεσμος: %s ',
-	'LOG_PORTAL_EVENT_ADDED'				=> '<strong>Οι ρυθμίσεις portal άλλαξαν</strong><br />&raquo; Προστέθηκε γεγονός: %s ',
-	'LOG_PORTAL_EVENT_UPDATED'				=> '<strong>Οι ρυθμίσεις portal άλλαξαν</strong><br />&raquo; Ενημερώθηκε γεγονός: %s ',
-	'LOG_PORTAL_EVENT_REMOVED'				=> '<strong>Οι ρυθμίσεις portal άλλαξαν</strong><br />&raquo; Αφαιρέθηκε γεγονός: %s ',
+	'LOG_PORTAL_EVENT_ADDED'				=> '<strong>Οι ρυθμίσεις portal άλλαξαν</strong><br />&raquo; Προστέθηκε εκδήλωση: %s ',
+	'LOG_PORTAL_EVENT_UPDATED'				=> '<strong>Οι ρυθμίσεις portal άλλαξαν</strong><br />&raquo; Ενημερώθηκε εκδήλωση: %s ',
+	'LOG_PORTAL_EVENT_REMOVED'				=> '<strong>Οι ρυθμίσεις portal άλλαξαν</strong><br />&raquo; Αφαιρέθηκε εκδήλωση: %s ',
 
 	// Upload Module
 	'ACP_PORTAL_UPLOAD'				=> 'Φόρτωση μονάδας',
@@ -140,7 +143,7 @@ $lang = array_merge($lang, array(
 	'LATEST_VERSION'		=> 'Νεώτερη έκδοση',
 	'NO_INFO'				=> 'Δεν ήταν δυνατή η επικοινωνία με τον διακομιστή έκδοσης',
 	'NOT_UP_TO_DATE'		=> 'Το %s δεν είναι ενημερωμένο',
-	'RELEASE_ANNOUNCEMENT'	=> 'Ανακοίνωση θέμα',
+	'RELEASE_ANNOUNCEMENT'	=> 'Ανακοίνωσης θέμα',
 	'UP_TO_DATE'			=> 'Το %s είναι ενημερωμένο',
 	'VERSION_CHECK'			=> 'Έλεγχος έκδοσης MOD',
 	
