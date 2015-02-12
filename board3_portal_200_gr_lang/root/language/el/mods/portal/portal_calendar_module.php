@@ -133,7 +133,7 @@ $lang = array_merge($lang, array(
 	
 	
 	// Logs
-	'LOG_PORTAL_EVENT_UPDATED'				=> '<strong>Ενημερώθηκε γεγονός</strong><br />&raquo; %s',
-	'LOG_PORTAL_EVENT_ADDED'				=> '<strong>Προστέθηκε γεγονός</strong><br />&raquo; %s',
-	'LOG_PORTAL_EVENT_REMOVED'				=> '<strong>Αφαιρέθηκε γεγονός</strong><br />&raquo; %s',
+	'LOG_PORTAL_EVENT_UPDATED'				=> '<strong>Ενημερώθηκε εκδήλωση</strong><br />&raquo; %s',
+	'LOG_PORTAL_EVENT_ADDED'				=> '<strong>Προστέθηκε εκδήλωση</strong><br />&raquo; %s',
+	'LOG_PORTAL_EVENT_REMOVED'				=> '<strong>Αφαιρέθηκε εκδήλωση</strong><br />&raquo; %s',
 ));
