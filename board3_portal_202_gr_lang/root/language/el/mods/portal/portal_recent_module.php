@@ -5,6 +5,9 @@
 * @copyright (c) Board3 Group ( www.board3.de )
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
+* Ελληνική μετάφραση από την ομάδα του phpbbgr.com (dimitris):
+* (http://phpbbgr.com/team/)
+*
 */
 
 /**
