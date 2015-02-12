@@ -5,6 +5,9 @@
 * @copyright (c) 2014 Board3 Group ( www.board3.de )
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
+* Ελληνική μετάφραση από την ομάδα του phpbbgr.com (dimitris):
+* (http://phpbbgr.com/team/)
+*
 */
 
 /**
@@ -128,7 +131,7 @@ $lang = array_merge($lang, array(
 	'LATEST_VERSION'		=> 'Νεώτερη έκδοση',
 	'NO_INFO'				=> 'Δεν ήταν δυνατή η επικοινωνία με τον διακομιστή έκδοσης',
 	'NOT_UP_TO_DATE'		=> 'Το %s δεν είναι ενημερωμένο',
-	'RELEASE_ANNOUNCEMENT'	=> 'Ανακοίνωση θέμα',
+	'RELEASE_ANNOUNCEMENT'	=> 'Ανακοίνωσης θέμα',
 	'UP_TO_DATE'			=> 'Το %s είναι ενημερωμένο',
 	'VERSION_CHECK'			=> 'Έλεγχος έκδοσης MOD',
 ));
